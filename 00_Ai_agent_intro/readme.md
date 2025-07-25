@@ -53,16 +53,13 @@ Unlike traditional AI, these systems are **autonomous, goal-oriented, and proact
 
 ---
 ### 🗂️ Project Structure
-    bash
- agentic-ai/
-│
-├── agents/ # Intelligent agents (e.g. business_planner.py)
-├── tools/ # Tool interfaces (e.g. web_search.py)
-├── memory/ # Memory modules (e.g. vector_store.py)
-├── main.py # Entry point for running agentic tasks
-├── requirements.txt # Required dependencies
-└── README.md # You're here!
-
+agentic-ai/
+├── agents/             # Intelligent agents (e.g. business_planner.py)
+├── tools/              # Tool interfaces (e.g. web_search.py)
+├── memory/             # Memory modules (e.g. vector_store.py)
+├── main.py             # Entry point for running agentic tasks
+├── requirements.txt    # Required dependencies
+└── README.md           # You're here!
 
 ---
  📦 Requirements
