@@ -79,9 +79,10 @@ pip install -r requirements.txt
 
 ✨ Example Agent Flow
 Goal: “Create a business plan for an AI marketing startup”
+--
 
 Agent will:
-
+-
 Research top competitors via web search
 
 Write an executive summary
@@ -89,19 +90,19 @@ Write an executive summary
 Recommend a business model
 
 Propose a go-to-market strategy
-
+--
 📣 Final Thoughts
 Agentic AI is not just a trend — it's a fundamental shift in how software behaves. These agents can reduce manual effort, make autonomous decisions, and collaborate just like team members.
 
 This project gives you a foundational structure to build agentic systems using modern LLMs and APIs.
-
+--
 🙌 Contribute
 Pull requests, issues, and discussions are welcome!
 
 💡 Fork the repo
 
 ⭐ Star if you find it useful
-
+----
 🎥 Follow on YouTube
 
 💬 Join WhatsApp Channel
