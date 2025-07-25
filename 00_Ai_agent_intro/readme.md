@@ -53,7 +53,7 @@ Unlike traditional AI, these systems are **autonomous, goal-oriented, and proact
 
 ---
 ### 🗂️ Project Structure
-    
+    bash
  agentic-ai/
 │
 ├── agents/ # Intelligent agents (e.g. business_planner.py)
