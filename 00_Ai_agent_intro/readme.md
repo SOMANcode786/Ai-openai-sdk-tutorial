@@ -52,9 +52,9 @@ Unlike traditional AI, these systems are **autonomous, goal-oriented, and proact
 | **Multi-Agent**   | Agents working collaboratively or independently             |
 
 ---
-
-## 🗂️ Project Structure
-agentic-ai/
+### 🗂️ Project Structure
+    
+ agentic-ai/
 │
 ├── agents/ # Intelligent agents (e.g. business_planner.py)
 ├── tools/ # Tool interfaces (e.g. web_search.py)
